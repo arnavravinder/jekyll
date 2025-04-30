@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: obsidian
+description: "Obsidian is a sleek, dark grey theme with vibrant colored accents designed for Jekyll-powered blogs, documentation sites, and resource hubs."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
